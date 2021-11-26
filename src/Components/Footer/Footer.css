@@ -1,0 +1,23 @@
+.menu-links ul li .link:hover {
+	color: #7fc45a !important;
+}
+
+.social-links ul li a {
+	width: 2.1rem;
+	height: 2.1rem;
+	line-height: 2.1rem;
+}
+
+.social-links ul li a:hover {
+	transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-moz-transform: rotate(360deg);
+	-ms-transform: rotate(360deg);
+	-o-transform: rotate(360deg);
+}
+
+.copyright {
+	border-top: 1px solid rgba(255, 255, 255, 0.2);
+	letter-spacing: 1px;
+	word-spacing: 2px;
+}
